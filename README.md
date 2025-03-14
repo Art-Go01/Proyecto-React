@@ -8,10 +8,8 @@ Asegúrate de tener instalado:
 - Node.js la version que utilizo en este proyecto es v22.13.1
 - npm: 11.2.0
 
-## Instalación
+cuando ya hayan descargado el proyecto escribir
+npm install (se descargara lo necesario para el proyecto)
 
-Sigue estos pasos para clonar y configurar el proyecto:
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+y para correr el proyecto 
+npm run dev
